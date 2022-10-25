@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Mr."
+title                    : "Runzhe's Home"
 title_separator          : "-"
 name                     : &name "Runzhe Zhu"
 description              : &description "personal description"
