@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Runzhe Zhu"
-  avatar           : "files/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Master at Shanghai University of Engineering Science, interest in Geo-Localization, GIS, Remote Sensing"
   location         : "Shanghai, China"
   employer         :
