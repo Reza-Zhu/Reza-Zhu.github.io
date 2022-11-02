@@ -17,8 +17,16 @@ Hi! I am currently a master student at School of Electronic and Electrical Engin
 
 Research Statement
 ======
-My work focuses on cross-view object matching and visual geo-localization. I also interest in GIS and Remote sensing. Because Our lab's
-projects I had experience about indoor localization.
+My work focuses on Computer Vision, Specifically, Cross-View Object Matching and Visual Geo-Localization.
+I also interest in the AI application of GIS and Remote Sensing. Because our lab's
+projects I had experience about Indoor Localization, Such as UWB, WiFi Localization.
+
+News
+======
+I will graduate in 2023 Summer, So I am seeking a PhD or RA position in 2023 Fall. 
+
+And Now, I am writing a new paper which is about cross-view matching between UAV-view and satellite-view. Actually, I take a novel multimodal method and achieve outstanding performance in some datasets.
+I hope it will meet you soon.
 
 
 Other things about me
