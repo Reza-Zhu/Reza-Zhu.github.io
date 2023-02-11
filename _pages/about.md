@@ -23,7 +23,7 @@ projects I had experience about Indoor Localization, Such as UWB, WiFi Localizat
 
 News
 ======
-I will graduate in 2023 Summer, So I am seeking a PhD or RA position in 2023 Fall. 
+I will graduate in 2023 Summer, So I am seeking RA position in 2023 Fall. 
 
 And Now, I am writing a new paper which is about cross-view matching between UAV-view and satellite-view. Actually, I take a novel multimodal method and achieve outstanding performance in some datasets.
 I hope it will meet you soon.
