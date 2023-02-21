@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 SUES-200: A Multi-height Multi-scene Cross-view Image Benchmark Across Drone and Satellite \
 **Runzhe Zhu**, Ling Yin, Mingze Yang, Fei Wu, Yuncheng Yang, Wenbo Hu \
-In Peer Review, 2022 [Paper Link](https://arxiv.org/abs/2204.10704) 
+IEEE Transactions on Circuits and Systems for Video Technology, 2023 [Paper Link](https://arxiv.org/abs/2204.10704) 
 
 UAV’s Status Is Worth Considering: A Fusion Representations Matching Method for Geo-Localization \
 **Runzhe Zhu**,Mingze Yang,Ling Yin *,Fei Wu and Yuncheng Yang \
