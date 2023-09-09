@@ -44,7 +44,7 @@ Skills
   * Tensorflow
   * Numpy
   * Scikit-learn
-* C++
+* C++, C#
 * Office
   * MS Office
   * LaTeX
