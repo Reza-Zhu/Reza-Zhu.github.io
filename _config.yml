@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Runzhe's Home"
 title_separator          : "-"
 name                     : &name "Runzhe Zhu"
-description              : &description "M.S. student at Shanghai University of Engineering Science"
+description              : &description "PhD student at Fudan University"
 url                      : https://reza-zhu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reza-zhu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Runzhe Zhu"
   avatar           : "profile.jpg"
-  bio              : "Master at Shanghai University of Engineering Science, interest in Geo-Localization, GIS, Remote Sensing"
+  bio              : "PhD at Fudan University, interest in Remote Sensing, AI4Science, Geo-Localization"
   location         : "Shanghai, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "m025120503@sues.edu.cn"
+  email            : "rzzhu24@m.fudan.edu.cn"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://reza-zhu.github.io/"
   bitbucket        :
